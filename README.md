@@ -50,12 +50,9 @@ itunes.lookup(by: .id("12345")) { result in
 Both `search()` and `lookup()` can take an addtitional parameter of type `Option`. There you can specify information like *limit*, *language* or *country*.
 
 ## Requirements
-
 * Swift 4.0
 * iOS 8.4
-* watchOS 2
 * tvOS 9.0
-* OSX 10.10
 
 ## Installation
 
